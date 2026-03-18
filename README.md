@@ -1,6 +1,7 @@
 # SOC Analyst Project
 
-<img width="1536" height="1024" alt="ChatGPT Image Mar 18, 2026, 12_58_32 AM" src="https://github.com/user-attachments/assets/2ba95d17-b2a1-4c53-a5fc-5facad20d49d" />
+<img width="800" height="533" alt="tor_soc_image_resized" src="https://github.com/user-attachments/assets/cffeeb63-9782-4922-ba8a-c471f4267fac" />
+
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/benikusa7/Threat-Hunting-Scenario-Tor/blob/main/Threat-Hunting-Scenario-Tor)
